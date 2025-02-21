@@ -1,5 +1,4 @@
 #MD Robiul Islam
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="robiul17" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/robiul17?trk=profile-badge">Md Robiul Islam</a></div>
               
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
